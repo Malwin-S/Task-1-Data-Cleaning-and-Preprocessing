@@ -1,5 +1,6 @@
 # Task-1-Data-Cleaning-and-Preprocessing
 To prepare the netflix_titles.csv dataset for analysis, several cleaning and preprocessing operations were performed:
+
 Redundant entries were eliminated to maintain data integrity.
 Column names were transformed into a uniform, lowercase, underscore-separated style for ease of use.
 The date_added column was converted to a datetime object, enabling time-based investigations.
